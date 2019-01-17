@@ -18,6 +18,12 @@ public class Anagram {
         return res;
     }
     
+    /**
+     * 
+     * @param a string for count the number of each letter
+     * @param count array that contains the number of repetitive of each letter
+     * @param l array that contains the elements to compare
+     */
     private static void count(String a, int[] count, char[] l){
         for (int i = 0; i < a.length(); i++) {
             for (int j = 0; j < count.length; j++) {
