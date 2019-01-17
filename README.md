@@ -19,4 +19,4 @@
 > Answer: this command synchronous the "global" repository with the local repository.
 ---
 ### Screenshot
-![this is an screenshot of the commit](http:\\)
+![this is an screenshot of the commit](Screenshot-Commit.png)
