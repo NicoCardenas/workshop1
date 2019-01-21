@@ -1,5 +1,7 @@
 # Workshop 1
 
+## Git Basic
+
 ### Questions:
 
 > 1. What is the purpose of "git add ." command?
@@ -17,6 +19,23 @@
 
 > 5. What that command does? (Command: git pull origin master)
 > Answer: this command synchronous the "global" repository with the local repository.
----
+
 ### Screenshot
 ![this is an screenshot of the commit](Screenshot-Commit.png)
+
+## Maven Basic Concepts
+
+### Screenshot
+![this is an screenshot of the commit](mvn.png)
+
+> What do means the -B option in the command?
+> Answer: 
+
+> What do means the -D option in the command?
+> Answer: 
+
+> What do means the groupId, artifactId properties in the command?
+> Answer: 
+
+> Description: 
+> 
