@@ -23,3 +23,5 @@
 hs_err_pid*
 /dist/
 /build/
+/file-spy/target/
+/another-maven-project/target/
