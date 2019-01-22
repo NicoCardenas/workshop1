@@ -74,6 +74,12 @@
 > What is `mvn install` command using for?
 > **Answer**: Install the package into the local repository, for use as a dependency in other projects locally.
 
+### Task
+1. `mvn exec:java -Dexec.mainClass="edu.eci.FileSpy"`
+> ![this is an screenshot of command execution](exec.png)
+> ![this is an screenshot of command execution](exec2.png)
+
+
 ## Bibliography
 
 - [Maven started guide](https://maven.apache.org/guides/getting-started/index.html)
